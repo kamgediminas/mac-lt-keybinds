@@ -1,1 +1,1 @@
-# mac-lt-keybinds
+# ~/Library/KeyBindings/
